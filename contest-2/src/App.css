@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+.crypto-app h1 {
+  text-align: center;
+  margin: 40px auto;
+  width: 100%;
+  display: inline-block;
+  padding-bottom: 10px;
+}
